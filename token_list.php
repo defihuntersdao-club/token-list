@@ -35,6 +35,7 @@ $tkns[$n][chainId] 	= 1;
 $tkns[$n][name]		= "NFT INDEX";
 $tkns[$n][symbol]	= "NFTI";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/nfti.svg";
 
 $n++;
 $tkns[$n][address] 	= "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f";
@@ -42,6 +43,7 @@ $tkns[$n][chainId]	= 137;
 $tkns[$n][name]		= "CMI Index";
 $tkns[$n][symbol]	= "CMI";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/cmi.png";
 
 
 $n++;
@@ -50,6 +52,7 @@ $tkns[$n][chainId]	= 1;
 $tkns[$n][name]		= "METAVERSE INDEX";
 $tkns[$n][symbol]	= "METAI";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai_200x200.png";
 
 $n++;
 $tkns[$n][address] 	= "0x90F3edc7D5298918F7BB51694134b07356F7d0C7";
@@ -57,6 +60,7 @@ $tkns[$n][chainId]	= 137;
 $tkns[$n][name]		= "DEFI HUNTERS DAO Token";
 $tkns[$n][symbol]	= "DDAO";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/defihuntersdao-club/defihuntersdao-logo/main/DDAO_Logo_200x200.png";
 
 $n++;
 $tkns[$n][address] 	= "0xE58e8391BA17731C5671F9c6E00e420608Dca10e";
@@ -64,6 +68,7 @@ $tkns[$n][chainId]	= 137;
 $tkns[$n][name]		= "GNFT";
 $tkns[$n][symbol]	= "GNFT";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png";
 
 $n++;
 $tkns[$n][address] 	= "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b";
@@ -71,6 +76,7 @@ $tkns[$n][chainId]	= 1;
 $tkns[$n][name]		= "GNFT";
 $tkns[$n][symbol]	= "GNFT";
 $tkns[$n][decimals]	= 18;
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png";
 
 $o[tokens] = $tkns;
 
