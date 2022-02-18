@@ -12,8 +12,8 @@ $time = file_get_contents($f_time);
 
 
 $o[name] = "DeFi Hanters DAO token list";
-$o[timestamp] = date("Y-m-d",$time)."T".date("H:i:s",$time)."+00:00";
-$timestamp = date("Y-m-d",$now_time)."T".date("H:i:s",$now_time)."+00:00";
+$o[timestamp] = date("Y-m-d",$time)."T".date("H:i:s",$time)."+02:00";
+$timestamp = date("Y-m-d",$now_time)."T".date("H:i:s",$now_time)."+02:00";
 
 $a = file_get_contents($f_ver);
 $o[version] = json_decode($a,1);

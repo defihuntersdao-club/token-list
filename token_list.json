@@ -1,9 +1,9 @@
 {
     "name": "DeFi Hanters DAO token list",
-    "timestamp": "2022-02-18T12:02:04+00:00",
+    "timestamp": "2022-02-18T12:04:06+02:00",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
