@@ -1,9 +1,9 @@
 {
     "name": "DDAO token list",
-    "timestamp": "2022-02-18T12:37:02+02:00",
+    "timestamp": "2022-02-18T12:49:38+02:00",
     "version": {
         "major": 1,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
     "logoURI": "https://raw.githubusercontent.com/defihuntersdao-club/defihuntersdao-logo/main/DDAO_Logo_200x200.png",
@@ -46,7 +46,7 @@
             "name": "GNFT",
             "symbol": "GNFT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png"
+            "logoURI": "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_1894_200x200.png"
         },
         {
             "address": "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b",
@@ -54,7 +54,7 @@
             "name": "GNFT",
             "symbol": "GNFT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png"
+            "logoURI": "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_1894_200x200.png"
         }
     ]
 }

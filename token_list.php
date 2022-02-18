@@ -69,6 +69,7 @@ $tkns[$n][name]		= "GNFT";
 $tkns[$n][symbol]	= "GNFT";
 $tkns[$n][decimals]	= 18;
 $tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png";
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_1894_200x200.png";
 
 $n++;
 $tkns[$n][address] 	= "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b";
@@ -77,6 +78,7 @@ $tkns[$n][name]		= "GNFT";
 $tkns[$n][symbol]	= "GNFT";
 $tkns[$n][decimals]	= 18;
 $tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_logo_200x200.png";
+$tkns[$n][logoURI]	= "https://raw.githubusercontent.com/nftindex-tech/gnft-logo/main/gnft_1894_200x200.png";
 
 $o[tokens] = $tkns;
 
