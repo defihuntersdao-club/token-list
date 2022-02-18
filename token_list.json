@@ -1,0 +1,53 @@
+{
+    "name": "DeFi Hanters DAO token list",
+    "timestamp": "2022-02-18T12:02:04+00:00",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
+            "chainId": 1,
+            "name": "NFT INDEX",
+            "symbol": "NFTI",
+            "decimals": 18
+        },
+        {
+            "address": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
+            "chainId": 137,
+            "name": "CMI Index",
+            "symbol": "CMI",
+            "decimals": 18
+        },
+        {
+            "address": "0xefc996ce8341cd36c55412b51df5bbca429a7617",
+            "chainId": 1,
+            "name": "METAVERSE INDEX",
+            "symbol": "METAI",
+            "decimals": 18
+        },
+        {
+            "address": "0x90F3edc7D5298918F7BB51694134b07356F7d0C7",
+            "chainId": 137,
+            "name": "DEFI HUNTERS DAO Token",
+            "symbol": "DDAO",
+            "decimals": 18
+        },
+        {
+            "address": "0xE58e8391BA17731C5671F9c6E00e420608Dca10e",
+            "chainId": 137,
+            "name": "GNFT",
+            "symbol": "GNFT",
+            "decimals": 18
+        },
+        {
+            "address": "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b",
+            "chainId": 1,
+            "name": "GNFT",
+            "symbol": "GNFT",
+            "decimals": 18
+        }
+    ]
+}
