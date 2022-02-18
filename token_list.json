@@ -1,11 +1,20 @@
 {
     "name": "DeFi Hanters DAO token list",
-    "timestamp": "2022-02-18T12:04:06+02:00",
+    "timestamp": "2022-02-18T12:17:02+02:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 4,
         "patch": 0
     },
+    "keywords": {
+        "1": "https://nftindex.tech/",
+        "2": "https://defihuntersdao.club/"
+    },
+    "tags": [
+        "GOVERNANCE TOKEN",
+        "NFT Index",
+        "METAVERSE Index"
+    ],
     "tokens": [
         {
             "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",

@@ -18,6 +18,14 @@ $timestamp = date("Y-m-d",$now_time)."T".date("H:i:s",$now_time)."+02:00";
 $a = file_get_contents($f_ver);
 $o[version] = json_decode($a,1);
 
+$o[keywords][1] = "https://nftindex.tech/";
+$o[keywords][] = "https://defihuntersdao.club/";
+
+
+$o[tags][] = "GOVERNANCE TOKEN";
+$o[tags][] = "NFT Index";
+$o[tags][] = "METAVERSE Index";
+
 
 //$n = "nfti";
 $n = 0;
@@ -94,5 +102,5 @@ $b = json_encode($o,192);
 file_put_contents($f,$b);
 //print $a;
 }
-//print_r($o);
+print_r($o);
 
