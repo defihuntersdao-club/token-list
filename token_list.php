@@ -12,19 +12,20 @@ $time = file_get_contents($f_time);
 
 
 $o[name] = "DeFi Hanters DAO token list";
+$o[name] = "DDAO token list";
 $o[timestamp] = date("Y-m-d",$time)."T".date("H:i:s",$time)."+02:00";
 $timestamp = date("Y-m-d",$now_time)."T".date("H:i:s",$now_time)."+02:00";
 
 $a = file_get_contents($f_ver);
 $o[version] = json_decode($a,1);
 
-$o[keywords][1] = "https://nftindex.tech/";
-$o[keywords][] = "https://defihuntersdao.club/";
+//$o[keywords][1] = "https://nftindex.tech/";
+//$o[keywords][] = "https://defihuntersdao.club/";
 
 
-$o[tags][] = "GOVERNANCE TOKEN";
-$o[tags][] = "NFT Index";
-$o[tags][] = "METAVERSE Index";
+//$o[tags][] = "GOVERNANCE TOKEN";
+//$o[tags][] = "NFT Index";
+//$o[tags][] = "METAVERSE Index";
 
 
 //$n = "nfti";
@@ -44,7 +45,7 @@ $tkns[$n][decimals]	= 18;
 
 
 $n++;
-$tkns[$n][address] 	= "0xefc996ce8341cd36c55412b51df5bbca429a7617";
+$tkns[$n][address] 	= "0xeFC996CE8341cd36c55412B51DF5BBCa429a7617";
 $tkns[$n][chainId]	= 1;
 $tkns[$n][name]		= "METAVERSE INDEX";
 $tkns[$n][symbol]	= "METAI";
