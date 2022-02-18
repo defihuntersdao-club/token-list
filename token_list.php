@@ -26,7 +26,7 @@ $o[version] = json_decode($a,1);
 //$o[tags][] = "GOVERNANCE TOKEN";
 //$o[tags][] = "NFT Index";
 //$o[tags][] = "METAVERSE Index";
-
+$o[logoURI] = "https://raw.githubusercontent.com/defihuntersdao-club/defihuntersdao-logo/main/DDAO_Logo_200x200.png";
 
 //$n = "nfti";
 $n = 0;

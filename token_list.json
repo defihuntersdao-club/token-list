@@ -1,11 +1,12 @@
 {
     "name": "DDAO token list",
-    "timestamp": "2022-02-18T12:22:56+02:00",
+    "timestamp": "2022-02-18T12:31:54+02:00",
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
+    "logoURI": "https://raw.githubusercontent.com/defihuntersdao-club/defihuntersdao-logo/main/DDAO_Logo_200x200.png",
     "tokens": [
         {
             "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
